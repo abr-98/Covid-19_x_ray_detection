@@ -7,3 +7,5 @@ Drive_link for Dataset: https://drive.google.com/drive/folders/16Dh0vBX_5w5AdTP_
 Original Dataset:https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 and https://github.com/ieee8023/covid-chestxray-dataset
+
+
